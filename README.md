@@ -1,6 +1,6 @@
 This repository contains my most recent resume.
 
-I am a final-year MSc Data Science student with a background in Computer Science and a minor in Statistics and Physics. My interests include Machine Learning, Deep Learning, Optimization, and data-driven system design.
+Data Science graduate specializing in machine learning, deep learning, optimization, and statistical modeling, building predictive models and scalable systems with applications in healthcare analytics and computer vision.
 
 ## Focus Areas
 * Python & SQL
